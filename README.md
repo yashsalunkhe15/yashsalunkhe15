@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="kling_20260806_VIDEO_Pixel_art__4793_0.gif" width="600" alt="Animated Developer Setup"/>
+  <img src="kling_20260806_VIDEO_Animate_th_5771_0.mp4" width="600" alt="Animated Developer Setup"/>
 </p>
 
 <!-- Animated Neon Wave Banner -->
