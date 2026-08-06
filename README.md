@@ -4,13 +4,16 @@
 
 <!-- Animated Neon Wave Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F2FE,50:4FACFE,100:000000&height=220&section=header&text=Hi%20%F0%9F%90%8B%20I'm%20Yash%20Salunkhe&fontSize=42&fontColor=ffffff&animation=twinkling" width="100%"/>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:1A0933,30:5B21B6,60:8B5CF6,100:D946EF&height=220&section=header&text=Hi%20I'm%20Yash%20Salunkhe&fontSize=42&fontColor=FFFFFF&fontAlignY=38&animation=twinkling"
+    width="100%"
+  />
 </p>
 
 <!-- Typing Subtitle Animation -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=00F2FE&center=true&vCenter=true&width=800&lines=Software+%26+AI%2FML+Developer;B.Tech+ENTC+@+PCCOE%2C+Pune;Building+Scalable+Software+%26+Computer+Vision+Apps;Java+%7C+Python+%7C+Machine+Learning+%7C+OpenCV" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=A855F7&center=true&vCenter=true&width=800&lines=Software+%26+AI%2FML+Developer;B.Tech+ENTC+@+PCCOE%2C+Pune;Building+Scalable+Software+%26+Computer+Vision+Apps;Java+%7C+Python+%7C+Machine+Learning+%7C+OpenCV" alt="Typing SVG" />
   </a>
 </p>
 
@@ -53,12 +56,7 @@
 
 ### 💻 Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,c,html,css,js&perline=8"/>
-</p>
-
-### 🧠 AI & Machine Learning
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=opencv,matlab&perline=8"/>
+  <img src="https://skillicons.dev/icons?i=java,python,c,css&perline=8"/>
 </p>
 
 <p align="center">
